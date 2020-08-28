@@ -1,6 +1,6 @@
 ### Hello there, I am Kevin Adhiguna 👋
 
-
+<img src="assets/kevinadhiguna.png" />
 
 ## ⚙️ &nbsp;GitHub Stats
 
@@ -10,15 +10,6 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kevinadhiguna&layout=compact&exclude_lang=shards++ShaderLab+HLSL&theme=vue-dark" />
   </a>
 </p>
-
-## 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp; I love to explore information technology and am passionate in Front-End Development and Cyber Security. <br />
-🎯 &nbsp; My goal is to contribute to my country 🇮🇩 in terms of Information Technology. <br />
-🎓 &nbsp; I am currently studying at Padjadjaran University, Computer Science major. <br />
-✍️ &nbsp; In my free time, I develop my language skills, especially learning and speaking English🇬🇧 and Japanese🇯🇵. <br />
-💬 &nbsp; Feel free to reach out to me for some interesting discussion. <br />
-✉️ &nbsp; You can shoot me an email at kevin26798@gmail.com! I'll try to respond as soon as I can. <br />
 
 ## 🛠 Languages and Tools:
 
@@ -31,6 +22,15 @@
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/kevinadhiguna">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/kevinadhiguna">
 <br>
+
+## 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp; I love to explore information technology and am passionate in Front-End Development and Cyber Security. <br />
+🎯 &nbsp; My goal is to contribute to my country 🇮🇩 in terms of Information Technology. <br />
+🎓 &nbsp; I am currently studying at Padjadjaran University, Computer Science major. <br />
+✍️ &nbsp; In my free time, I develop my language skills, especially learning and speaking English🇬🇧 and Japanese🇯🇵. <br />
+💬 &nbsp; Feel free to reach out to me for some interesting discussion. <br />
+✉️ &nbsp; You can shoot me an email at kevin26798@gmail.com! I'll try to respond as soon as I can. <br />
 
 <!--
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
