@@ -1,6 +1,6 @@
 ### Hello there, I am Kevin Adhiguna 👋
 
-<img src="assets/kevinadhiguna.png" />
+<img src="https://github.com/kevinadhiguna/kevinadhiguna/assets/kevinadhiguna.png" />
 
 ## ⚙️ &nbsp;GitHub Stats
 
