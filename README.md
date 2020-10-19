@@ -29,7 +29,7 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I love to explore information technology and am passionate in Front-End Development and Cyber Security. <br />
-🎯 &nbsp; My goal is to contribute to my country 🇮🇩 in terms of Information Technology. <br />
+🎯 &nbsp; My goal is to contribute to my country in terms of Information Technology. <br />
 🎓 &nbsp; I am currently studying at Padjadjaran University, Computer Science major. <br />
 ✍️ &nbsp; In my free time, I develop my language skills, especially learning and speaking English🇬🇧 and Japanese🇯🇵. <br />
 💬 &nbsp; Feel free to reach out to me for some interesting discussion. <br />
