@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="https://github.com/kevinadhiguna">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kevinadhiguna&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kevinadhiguna&layout=compact&hide=shards+shaderlab+hlsl&theme=vue-dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinadhiguna&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinadhiguna&layout=compact&theme=vue-dark&hide=shards,shaderlab,hlsl&langs_count=10" />
   </a>
 </p>
 
