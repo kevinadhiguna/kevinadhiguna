@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://github.com/kevinadhiguna">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kevinadhiguna&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kevinadhiguna&layout=compact&exclude_lang=shards++ShaderLab+HLSL&theme=vue-dark" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kevinadhiguna&layout=compact&hide=shards+shaderlab+hlsl&theme=vue-dark" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@
 🎓 &nbsp; I am currently studying at Padjadjaran University, Computer Science major. <br />
 ✍️ &nbsp; In my free time, I develop my language skills, especially learning and speaking English🇬🇧 and Japanese🇯🇵. <br />
 💬 &nbsp; Feel free to reach out to me for some interesting discussion. <br />
-✉️ &nbsp; You can shoot me an email at kevin26798@gmail.com! I'll try to respond as soon as I can. <br />
+✉️ &nbsp; You can connect with me through LinkedIn or shoot me an email! I'll try to respond as soon as I can. <br />
 
 <!--
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
