@@ -5,15 +5,37 @@
 <img src="https://raw.githubusercontent.com/kevinadhiguna/kevinadhiguna/master/assets/kevinadhiguna.png" alt="kevinadhiguna's profile banner" />
 -->
 
-## ⚙️ &nbsp;GitHub Stats
+## ⚙️ &nbsp;Github Stats
 
 <a href="https://github.com/kevinadhiguna">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinadhiguna&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinadhiguna&layout=compact&theme=vue-dark&hide=shards,shaderlab,hlsl&langs_count=10" />
 </a>
 
-## 🛠 Languages and Tools:
+## 🛠 Tech. Stacks & Tools:
 
+### Languages :
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" />&nbsp;&nbsp;
+
+### Frameworks :
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/strapi%20-%232E7EEA.svg?&style=for-the-badge&logo=strapi&logoColor=white" />&nbsp;&nbsp;
+
+### Database Management System :
+<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+
+### Version Control :
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />&nbsp;&nbsp;
+
+<!-- Former
 <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
@@ -23,6 +45,7 @@
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/kevinadhiguna">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/kevinadhiguna">
 <br>
+-->
 
 ## 👨🏻‍💻 &nbsp;About Me
 
