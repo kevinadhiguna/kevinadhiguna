@@ -1,6 +1,6 @@
 ### Hello there, I am Kevin Adhiguna 👋
 
-![kevinadhiguna](https://raw.githubusercontent.com/kevinadhiguna/kevinadhiguna/master/assets/kevinadhiguna.png)
+![kevinadhiguna](https://raw.githubusercontent.com/kevinadhiguna/kevinadhiguna/master/assets/kevinadhiguna-v2.png)
 <!-- Alternative:
 <img src="https://raw.githubusercontent.com/kevinadhiguna/kevinadhiguna/master/assets/kevinadhiguna.png" alt="kevinadhiguna's profile banner" />
 -->
