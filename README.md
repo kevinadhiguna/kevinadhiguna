@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinadhiguna&layout=compact&theme=vue-dark&hide=shards,shaderlab,hlsl&langs_count=10" />
 </a>
 
-## 🛠 Tech. Stacks & Tools:
+## 🛠 Tech. Stacks & Tools
 
 ### Languages :
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;
@@ -28,7 +28,10 @@
 
 ### Database Management System :
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+
+### API :
+<img src="https://img.shields.io/badge/graphql%20-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;&nbsp;
 
 ### Version Control :
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
@@ -47,7 +50,7 @@
 <br>
 -->
 
-## 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Kevin
 
 💡 &nbsp; I love to explore information technology and am passionate in Front-End Development and Cyber Security. <br />
 🎯 &nbsp; My goal is to contribute to my country in terms of Information Technology. <br />
@@ -73,11 +76,16 @@
 <br>
 -->
 
-## :mailbox: Get in Touch with Kevin:
+## :mailbox: Get in Touch with Kevin
 
 <p align="center" id="contact">
   <a href= "https://www.linkedin.com/in/kevinadhiguna/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
   <a href= "mailto:kevin26798@gmail.com"><img src="https://img.icons8.com/dusk/48/000000/gmail.png"/></a>
+</p>
+
+<p align="center">
+  Visitor Counter<br>
+  <img src="https://profile-counter.glitch.me/kevinadhiguna/count.svg" />
 </p>
 
 <!--
