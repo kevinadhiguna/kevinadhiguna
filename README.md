@@ -80,7 +80,7 @@
 
 <p align="center" id="contact">
   <a href= "https://www.linkedin.com/in/kevinadhiguna/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
-  <a href= "mailto:kevin26798@gmail.com"><img src="https://img.icons8.com/dusk/48/000000/gmail.png"/></a>
+  <a href= "mailto:hi.kevinadhiguna@gmail.com"><img src="https://img.icons8.com/dusk/48/000000/gmail.png"/></a>
 </p>
 
 <p align="center">
