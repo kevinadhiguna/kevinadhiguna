@@ -84,7 +84,7 @@
 </p>
 
 <p align="center">
-  Visitor Counter<br>
+  Profile Views<br>
   <img src="https://profile-counter.glitch.me/kevinadhiguna/count.svg" />
 </p>
 
