@@ -54,10 +54,11 @@
 
 💡 &nbsp; I love to explore information technology and am passionate in Front-End Development and Cyber Security. <br />
 🎯 &nbsp; My goal is to contribute to my country in terms of Information Technology. <br />
-🎓 &nbsp; I am currently studying at Computer Science at a university. <br />
+<!-- 🎓 &nbsp; I am currently studying at Computer Science at a university. <br />
 ✍️ &nbsp; In my free time, I develop my language skills, especially learning and speaking English🇬🇧 and Japanese🇯🇵. <br />
 💬 &nbsp; Feel free to reach out to me for some interesting discussion. <br />
 ✉️ &nbsp; You can connect with me through LinkedIn or shoot me an email! I'll try to respond as soon as I can. <br />
+-->
 
 <!--
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
