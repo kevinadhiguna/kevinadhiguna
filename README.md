@@ -68,6 +68,9 @@ Authentication & Authorization in Strapi using REST API Postman : https://youtu.
 Strapi & MongoDB - ID Card Repository with REST API and GraphQL : https://youtu.be/U0nXkjs91c4 <br/>
 CORS in Strapi, Upload File with GraphQL API using Altair : https://youtu.be/ePc6Slq6udg
 
+### Disable Telemetry in your Strapi app
+How to disable telemetry in your Strapi app : https://dev.to/kevinadhiguna/disable-telemetry-in-strapi-2egf
+
 ### ReactJS Internationalization & Ant Design Pro
 Translating & Internationalizing React App with Ant Design Pro & UmiJS : https://youtu.be/1Pyefc3Sppg
 
