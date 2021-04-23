@@ -117,6 +117,8 @@ What is Async/Await in Javascript ? | Explained with an example! : https://youtu
   <a href= "mailto:hi.kevinadhiguna@gmail.com"><img src="https://img.icons8.com/dusk/48/000000/gmail.png"/></a>
 </p>
 
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/kevinadhiguna)](https://github.com/kevinadhiguna)
+
 <!--
 <p align="center">
   Profile Views<br>
