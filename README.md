@@ -1,10 +1,6 @@
 ### Hello there, I am Kevin Adhiguna 👋
 
 <img alt="Kevin's Profile Banner" src="https://s3.gifyu.com/images/ecf5162056566143gfe6.png" />
-![kevinadhiguna](https://raw.githubusercontent.com/kevinadhiguna/kevinadhiguna/master/assets/kevinadhiguna-v3.png)
-<!-- Alternative:
-<img src="https://raw.githubusercontent.com/kevinadhiguna/kevinadhiguna/master/assets/kevinadhiguna.png" alt="kevinadhiguna's profile banner" />
--->
 
 ## ⚙️ &nbsp;Github Stats
 
