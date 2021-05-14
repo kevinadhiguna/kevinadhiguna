@@ -2,7 +2,7 @@
 
 <img alt="Kevin's Profile Banner" src="https://s3.gifyu.com/images/ecf5162056566143gfe6.png" />
 
-## ⚙️ &nbsp;Github Stats
+## 📊️&nbsp;Github Stats
 
 <a href="https://github.com/kevinadhiguna">
   <img alt="Kevin's all Git commits" height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinadhiguna&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
