@@ -86,6 +86,9 @@ What are Callback Functions in Javascript? | Callback function examples : https:
 What is Promise in Javascript? | Explained with an example! : https://youtu.be/LVrKY0XxFZs <br/>
 What is Async/Await in Javascript ? | Explained with an example! : https://youtu.be/H4O1qOBHgaQ
 
+## 📜 Kevin's Paper
+Building an ID Card Repository with Progressive Web Application to Mitigate Fraud : https://arxiv.org/abs/2012.08295 (Download [PDF](https://arxiv.org/pdf/2012.08295))
+
 ## 👨🏻‍💻 &nbsp;About Kevin
 
 💡 &nbsp; I love to explore information technology and am passionate in Front-End Development and Cyber Security. <br />
