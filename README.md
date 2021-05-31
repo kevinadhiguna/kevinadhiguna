@@ -67,7 +67,7 @@ ReactJS Strapi - Apple Inventory Website : https://youtu.be/Q49e6m9v414
 ### Strapi app powered by REST API
 Authentication & Authorization in Strapi using REST API Postman : https://youtu.be/O7O3rrDuLs4
 
-### Setup your Strapi app
+### Set up your Strapi app
 Strapi & MongoDB - ID Card Repository with REST API and GraphQL : https://youtu.be/U0nXkjs91c4 <br/>
 CORS in Strapi, Upload File with GraphQL API using Altair : https://youtu.be/ePc6Slq6udg
 
