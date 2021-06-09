@@ -96,7 +96,7 @@ Building an ID Card Repository with Progressive Web Application to Mitigate Frau
 ## 👨🏻‍💻 &nbsp;About Kevin
 
 💡 &nbsp; I love to explore information technology and am passionate in Front-End Development and Cyber Security. <br />
-🎯 &nbsp; My goal is to contribute to my country in terms of Information Technology. 
+🎯 &nbsp; My goal is to contribute to my country in IT field. 
 
 <br />
 
