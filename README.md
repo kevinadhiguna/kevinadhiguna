@@ -60,38 +60,40 @@
 ## 📺 My YouTube Videos & Tutorials
 
 ### Utilizing GraphQL API in a Strapi app
-Strapi x GraphQL Single Image Upload & Multiple Images Upload using Altair GraphQL Client : https://youtu.be/OMkmjTN2NRM <br/>
-Strapi GraphQL - Login & Authenticated CRUD Operations : https://youtu.be/LwB2Yw3JKys <br/>
-Strapi GraphQL - Unauthenticated CRUD Operations : https://youtu.be/MaHylqj4jOQ <br/>
-Strapi Headless CMS - GraphQL API CRUD operation (Create) : https://youtu.be/G0iLFBE7E_A
+- [Strapi x GraphQL Single Image Upload & Multiple Images Upload using Altair GraphQL Client](https://youtu.be/OMkmjTN2NRM)
+- [Strapi GraphQL - Login & Authenticated CRUD Operations](https://youtu.be/LwB2Yw3JKys)
+- [Strapi GraphQL - Unauthenticated CRUD Operations](https://youtu.be/MaHylqj4jOQ)
+- [Strapi Headless CMS - GraphQL API CRUD operation (Create)](https://youtu.be/G0iLFBE7E_A)
 
 ### A Strapi & ReactJS example app : Apple inventory app
-ReactJS Strapi - Apple Inventory Website : https://youtu.be/Q49e6m9v414
+- [ReactJS Strapi - Apple Inventory Website](https://youtu.be/Q49e6m9v414)
 
 ### Strapi app powered by REST API
-Authentication & Authorization in Strapi using REST API Postman : https://youtu.be/O7O3rrDuLs4
+- [Authentication & Authorization in Strapi using REST API Postman](https://youtu.be/O7O3rrDuLs4)
 
 ### Set up your Strapi app
-Strapi & MongoDB - ID Card Repository with REST API and GraphQL : https://youtu.be/U0nXkjs91c4 <br/>
-CORS in Strapi, Upload File with GraphQL API using Altair : https://youtu.be/ePc6Slq6udg
+- [Strapi & MongoDB - ID Card Repository with REST API and GraphQL](https://youtu.be/U0nXkjs91c4)
+- [CORS in Strapi, Upload File with GraphQL API using Altair](https://youtu.be/ePc6Slq6udg)
 
 ### Disable Telemetry in your Strapi app
-How to disable telemetry in your Strapi app : https://dev.to/kevinadhiguna/disable-telemetry-in-strapi-2egf
+- [How to disable telemetry in your Strapi app](https://dev.to/kevinadhiguna/disable-telemetry-in-strapi-2egf)
 
 ### ReactJS Internationalization & Ant Design Pro
-Translating & Internationalizing React App with Ant Design Pro & UmiJS : https://youtu.be/1Pyefc3Sppg
+- [Translating & Internationalizing React App with Ant Design Pro & UmiJS](https://youtu.be/1Pyefc3Sppg)
 
 ### Wriitng an IEEE International Confrence Paper using LaTex
-ApWiMob IEEE International Conference Paper Template with Overleaf/Latex : https://youtu.be/2OdCb15acCw <br/>
-Writing IEEE Paper using Overleaf and LaTeX : https://youtu.be/KOYi265scaA
+- [ApWiMob IEEE International Conference Paper Template with Overleaf/Latex](https://youtu.be/2OdCb15acCw)
+- [Writing IEEE Paper using Overleaf and LaTeX](https://youtu.be/KOYi265scaA)
 
 ### Javascript tutorials
-What are Callback Functions in Javascript? | Callback function examples : https://youtu.be/3iKNumCRvsE <br/>
-What is Promise in Javascript? | Explained with an example! : https://youtu.be/LVrKY0XxFZs <br/>
-What is Async/Await in Javascript ? | Explained with an example! : https://youtu.be/H4O1qOBHgaQ
+- [What are Callback Functions in Javascript? | Callback function examples](https://youtu.be/3iKNumCRvsE)
+- [What is Promise in Javascript? | Explained with an example!](https://youtu.be/LVrKY0XxFZs)
+- [What is Async/Await in Javascript ? | Explained with an example!](https://youtu.be/H4O1qOBHgaQ)
 
+<!--
 ## 📜 Kevin's Paper
 Building an ID Card Repository with Progressive Web Application to Mitigate Fraud : https://arxiv.org/abs/2012.08295 (Download [PDF](https://arxiv.org/pdf/2012.08295))
+-->
 
 ## 👨🏻‍💻 &nbsp;About Kevin
 
