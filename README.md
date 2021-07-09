@@ -73,7 +73,8 @@
 
 ### Set up your Strapi app
 - [Strapi & MongoDB - ID Card Repository with REST API and GraphQL](https://youtu.be/U0nXkjs91c4)
-- [CORS in Strapi, Upload File with GraphQL API using Altair](https://youtu.be/ePc6Slq6udg)
+- [CORS in Strapi, Upload File with GraphQL API using Altair](https://youtu.be/ePc6Slq6udg)<br/>
+⚠️ For setting up CORS in Strapi, please have a look at this article : [Configure CORS in Strapi](https://dev.to/kevinadhiguna/what-is-cors-how-to-configure-cors-in-strapi-461b)
 
 ### Disable Telemetry in your Strapi app
 - [How to disable telemetry in your Strapi app](https://dev.to/kevinadhiguna/disable-telemetry-in-strapi-2egf)
