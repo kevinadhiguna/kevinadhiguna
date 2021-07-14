@@ -103,6 +103,16 @@ Building an ID Card Repository with Progressive Web Application to Mitigate Frau
 
 <br />
 
+<p align="center">
+    Thanks for making this far! You deserve a pat on the back:
+</p>
+
+<p align="center">
+  <img width="500" src="https://github-readme-quotes.herokuapp.com/quote?theme=vue-dark&animation=default&layout=default&font=default" />
+  <br/>
+  Have a nice day!
+</p>
+
 <!-- 🎓 &nbsp; I am currently studying at Computer Science at a university. <br />
 ✍️ &nbsp; In my free time, I develop my language skills, especially learning and speaking English🇬🇧 and Japanese🇯🇵. <br />
 💬 &nbsp; Feel free to reach out to me for some interesting discussion. <br />
