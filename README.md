@@ -96,10 +96,12 @@
 Building an ID Card Repository with Progressive Web Application to Mitigate Fraud : https://arxiv.org/abs/2012.08295 (Download [PDF](https://arxiv.org/pdf/2012.08295))
 -->
 
+<!--
 ## 👨🏻‍💻 &nbsp;About Kevin
 
 💡 &nbsp; I love to explore information technology and am passionate in Front-End Development and Cyber Security. <br />
 🎯 &nbsp; My goal is to contribute to my country in IT field. 
+-->
 
 <br />
 
