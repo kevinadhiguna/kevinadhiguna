@@ -17,7 +17,7 @@
 
 ### Languages :
 
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;&nbsp;
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;
 <img alt="HTML" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
 <img alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
@@ -44,9 +44,10 @@
 
 <img alt="GraphQL" src="https://img.shields.io/badge/graphql%20-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;&nbsp;
 
-### Cloud Infrastructure :
+### Cloud Infrastructure (IaaS & PaaS) :
 
-<img alt="Amazon Web Service (AWS)" src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;
+<img alt="Amazon Web Service (AWS)" src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;&nbsp;
+<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
 <!-- <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp;&nbsp; -->
 <!-- <img alt="Netlify" src="https://img.shields.io/badge/netlify-%2300C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white"/>&nbsp;&nbsp; -->
 
