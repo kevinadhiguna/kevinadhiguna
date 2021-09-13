@@ -148,6 +148,15 @@ Building an ID Card Repository with Progressive Web Application to Mitigate Frau
   <a href= "mailto:hi.kevinadhiguna@gmail.com"><img src="https://img.icons8.com/dusk/48/000000/gmail.png"/></a>
 </p>
 
+<!--
+<p align="center">
+  <img align="left" src="https://img.shields.io/badge/hi.kevinadhiguna@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img align="left" src="https://img.shields.io/badge/kevinadhiguna-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
+<br/>
+<br/>
+-->
+
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/kevinadhiguna)](https://github.com/kevinadhiguna)
 
 <!--
