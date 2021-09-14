@@ -92,10 +92,8 @@
 - [What is Promise in Javascript? | Explained with an example!](https://youtu.be/LVrKY0XxFZs)
 - [What is Async/Await in Javascript ? | Explained with an example!](https://youtu.be/H4O1qOBHgaQ)
 
-<!--
-## 📜 Kevin's Paper
-Building an ID Card Repository with Progressive Web Application to Mitigate Fraud : https://arxiv.org/abs/2012.08295 (Download [PDF](https://arxiv.org/pdf/2012.08295))
--->
+## 📜 Publication / Paper
+- Building an ID Card Repository with Progressive Web Application to Mitigate Fraud based on the Twelve-Factor App methodology ([View](https://ieeexplore.ieee.org/abstract/document/9527413))
 
 <!--
 ## 👨🏻‍💻 &nbsp;About Kevin
