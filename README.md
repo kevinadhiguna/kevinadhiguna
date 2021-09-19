@@ -63,6 +63,16 @@
 
 ## 📺 My YouTube Videos & Tutorials
 
+<!--
+<details>
+  <summary>Utilizing GraphQL API in a Strapi app</summary>
+  <a href="https://youtu.be/OMkmjTN2NRM">Strapi x GraphQL Single Image Upload & Multiple Images Upload using Altair GraphQL Client</a> <br/>
+  <a href="https://youtu.be/LwB2Yw3JKys">Strapi GraphQL - Login & Authenticated CRUD Operations</a> <br/>
+  <a href="https://youtu.be/MaHylqj4jOQ">Strapi GraphQL - Unauthenticated CRUD Operations</a> <br/>
+  <a href="https://youtu.be/G0iLFBE7E_A">Strapi Headless CMS - GraphQL API CRUD operation (Create)</a> <br/>
+</details>
+-->
+
 ### Utilizing GraphQL API in a Strapi app
 - [Strapi x GraphQL Single Image Upload & Multiple Images Upload using Altair GraphQL Client](https://youtu.be/OMkmjTN2NRM)
 - [Strapi GraphQL - Login & Authenticated CRUD Operations](https://youtu.be/LwB2Yw3JKys)
