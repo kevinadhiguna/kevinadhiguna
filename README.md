@@ -79,6 +79,9 @@
 - [Strapi GraphQL - Unauthenticated CRUD Operations](https://youtu.be/MaHylqj4jOQ)
 - [Strapi Headless CMS - GraphQL API CRUD operation (Create)](https://youtu.be/G0iLFBE7E_A)
 
+### Connecting Strapi app to AWS S3 (upload provider) 
+- [How to set up AWS S3 upload provider in your Strapi app](https://dev.to/kevinadhiguna/how-to-setup-amazon-s3-upload-provider-in-your-strapi-app-1opc)
+
 ### A Strapi & ReactJS example app : Apple inventory app
 - [ReactJS Strapi - Apple Inventory Website](https://youtu.be/Q49e6m9v414)
 
