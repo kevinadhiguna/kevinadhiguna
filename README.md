@@ -6,7 +6,10 @@
   <!-- 
   <img alt="Kevin's Profile Banner" src="https://s3.gifyu.com/images/ecf5162056566143gfe6.png" />
   -->
+  <!--
   <img alt="Kevin Adhiguna GitHub" src="https://s9.gifyu.com/images/ef563jy3qmrbjkefwe3ghf.png" />
+  -->
+  <img alt="banner" src="https://cdn.statically.io/gh/kevinadhiguna/kevinadhiguna/bb4d86aa/banner.png" />
 </div>
 
 ## 📊️&nbsp;Github Stats
