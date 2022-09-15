@@ -56,7 +56,7 @@
 
 <img alt="GraphQL" src="https://img.shields.io/badge/graphql%20-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;&nbsp;
 
-### DevOps tools :
+### DevOps tools / OS :
 
 <img alt="Amazon Web Service (AWS)" src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;&nbsp;
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
