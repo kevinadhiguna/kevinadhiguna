@@ -142,8 +142,10 @@
 
 <br />
 
+<!--
 ## 📜 Publication / Paper
 - Building an ID Card Repository with Progressive Web Application to Mitigate Fraud based on the Twelve-Factor App methodology ([View](https://ieeexplore.ieee.org/abstract/document/9527413))
+-->
 
 <!--
 ## 👨🏻‍💻 &nbsp;About Kevin
