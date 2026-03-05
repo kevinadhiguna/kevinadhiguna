@@ -1,5 +1,7 @@
 <div align="center">
+  <!-- 
   <h2>Hi, Kevin here 👋</h2>
+  -->
 </div>
 
 <div align="center">
@@ -9,10 +11,15 @@
   <!--
   <img alt="Kevin Adhiguna GitHub" src="https://s9.gifyu.com/images/ef563jy3qmrbjkefwe3ghf.png" />
   -->
+  <!--
   <img alt="banner" src="https://cdn.statically.io/gh/kevinadhiguna/kevinadhiguna/bb4d86aa/banner.png" />
+  -->
 </div>
 
-<br />
+<!--
+<br /> 
+-->
+
 <!--
 ## 📊️&nbsp;Github Stats
 
@@ -209,7 +216,9 @@ Thanks for making this far! You deserve a pat on the back:
 
 <br />
 
+<!-- 
 Thanks for making this far! You deserve a pat on the back :)
+-->
 
 <!--
 ![Hello !](https://api.visitorbadge.io/api/VisitorHit?user=kevinadhiguna&repo=kevinadhiguna&label=thanks%20for%20dropping%20in%20!&labelColor=%23000000&countColor=%23FFFFFF)
