@@ -3,7 +3,10 @@
 </div>
 
 - Software developer and DevOps engineer with 3 years of experience across software companies, an online marketplace, and a fintech startup. 
-- I'm currently pursuing MS in Cybersecurity Engineering, with a strong focus in Security Engineering or Identity and Access Management (IAM). 
+- I'm currently pursuing MS in Cybersecurity Engineering, with a strong focus in Security Engineering or Identity and Access Management (IAM).
+
+- I've collaborated across marketing, IT, and design teams. This experience helped me become comfortable explaining technical concepts to non-technical stakeholders.
+
 - I actively build and share security-focused projects on GitHub, along with supporting software engineering work. One project directly led to a professional opportunity with an international company.
 
 <div align="center">
